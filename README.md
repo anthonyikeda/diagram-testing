@@ -1,15 +1,5 @@
 # diagram-testing
 
-```graphviz
-digraph core_shopping {
-  rankdir=LR;
+![Workflow](./images/workflow.png)
 
-  subgraph cluster_cart {
-    rankdir=same;
-    Cart [label="Get Cart", shape=box]
-    Payment [label="Make Payment", shape=box]
 
-    Cart -> Payment
-  }
-}
-```
