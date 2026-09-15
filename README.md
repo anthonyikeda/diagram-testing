@@ -1,5 +1,5 @@
 # diagram-testing
 
-![Workflow](./images/workflow.png)
+![Workflow](./images/workflow.svg)
 
 
